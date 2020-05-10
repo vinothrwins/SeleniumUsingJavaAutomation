@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-05T19:56:13 IST" name="Default suite" finished-at="2020-05-05T19:57:01 IST" duration-ms="47893">
+    <groups>
+    </groups>
+    <test started-at="2020-05-05T19:56:13 IST" name="Default test" finished-at="2020-05-05T19:57:01 IST" duration-ms="47893">
+      <class name="crm.LoginApplication">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:56:13 IST" name="setUpTest" finished-at="2020-05-05T19:56:27 IST" duration-ms="14042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="test1(java.lang.String, java.lang.String)[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:56:27 IST" name="test1" data-provider="test1data" finished-at="2020-05-05T19:56:30 IST" duration-ms="2254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vinoth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:56:30 IST" name="closeApp" finished-at="2020-05-05T19:56:30 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:56:30 IST" name="setUpTest" finished-at="2020-05-05T19:56:43 IST" duration-ms="12894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="test1(java.lang.String, java.lang.String)[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:56:43 IST" name="test1" data-provider="test1data" finished-at="2020-05-05T19:56:45 IST" duration-ms="2259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anand]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:56:45 IST" name="closeApp" finished-at="2020-05-05T19:56:45 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:56:45 IST" name="setUpTest" finished-at="2020-05-05T19:56:58 IST" duration-ms="13430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="test1(java.lang.String, java.lang.String)[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:56:58 IST" name="test1" data-provider="test1data" finished-at="2020-05-05T19:57:01 IST" duration-ms="2231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pranav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:crm.LoginApplication@4278a03f]" started-at="2020-05-05T19:57:01 IST" name="closeApp" finished-at="2020-05-05T19:57:01 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- crm.LoginApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
