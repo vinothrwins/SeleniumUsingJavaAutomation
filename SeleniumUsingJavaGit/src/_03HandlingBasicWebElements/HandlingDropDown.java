@@ -1,4 +1,4 @@
-package _03handlingBasicWebElements;
+package _03HandlingBasicWebElements;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

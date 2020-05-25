@@ -1,4 +1,5 @@
-package _01handlingbrowser;
+package _01handlingBrowser;
+//package _01HandlingBrowser;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

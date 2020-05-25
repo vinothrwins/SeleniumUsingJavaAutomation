@@ -1,4 +1,4 @@
-package _02handlinglocators;
+package _02HandlingLocators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
